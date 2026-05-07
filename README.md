@@ -100,10 +100,4 @@ Open `auth.html` first if you are not logged in.
 
 For local testing, using a small static server is also fine, especially if the browser blocks anything when opened as a local file.
 
-## Project Files
-
-- `auth.html` - login and signup page
-- `index.html` - main dashboard
-- `script.js` - Supabase auth, n8n API calls, search, and watchlist logic
-- `style.css` - page styling and responsive layout
 
